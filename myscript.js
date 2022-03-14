@@ -23,3 +23,28 @@
 			duration: 500,
 			easingOpen: "easeOutBounce",
 		});
+	     /*====================================
+			Search JS
+		======================================*/ 	
+		$('.top-search a').on( "click", function(){
+			$('.search-top').toggleClass('active');
+		});
+		
+		/*====================================
+			Team JS
+		======================================*/ 
+		$('.single-team').on( "click", function(){
+			$(this).toggleClass("active");
+		});
+		
+		/*====================================
+			Sidebar Popup JS
+		======================================*/ 	
+		$('.right-nav .bar').on( "click", function(){
+			$('.sidebar-popup').addClass('active');
+		});
+		
+		$('.sidebar-popup .cross').on( "click", function(){
+			$('.sidebar-popup').removeClass('active');
+		});
+		
