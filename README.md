@@ -1,6 +1,6 @@
 <h1 align="center"> Hola, I'm kendid ! 👋 👩🏻‍💻 </h1>
 <br> 
-There is a place where i open source stuff and break things 🤣
+There is a place where I open source stuff and break things 🤣
 
 - ⌨️ I'm currently working on something really cool 🙂
 - 🌱 I’m currently learning everything 🤣 
