@@ -9,7 +9,7 @@ There is a place where I open source stuff and break things 🤣
 ### Connect with me:
 
 <!--[<img align="left" alt="ameerbamigbayan.com.ng" width="35px" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" />][website]-->
-[<img align="left" alt="@am33r_105 | Twitter" width="35px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
+[<img align="left" alt="@kendid | Twitter" width="35px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
 [<img align="left" alt="kendid | LinkedIn" width="35px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" />][linkedin]
 [<img align="left" alt="kendid | instagram" width="35px" src="https://img.icons8.com/fluency/344/instagram-new.png"  />][instagram]
 [<img align="left" alt="kendid | dribble" width="35px" src="https://img.icons8.com/fluency/344/dribbble.png" />][dribbble]
