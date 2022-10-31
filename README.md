@@ -25,4 +25,5 @@ There is a place where I open source stuff and break things 🤣
 [instagram]: https://instagram.com/da_phyk/
 
 
-![Anurag's GitHub stats](https://daphyk.vercel.app/api?username=Daphyk&count_private=true&show_icons=true&theme=radical)
+<img align= "left" alt="Daphyk's Github stats" src="https://aphyk-daphyk.vercel.app/username=Daphyk&show_icons=true&hide_border=true"/>
+
