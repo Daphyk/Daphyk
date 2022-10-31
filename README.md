@@ -24,6 +24,9 @@ There is a place where I open source stuff and break things 🤣
 [upwork]: https://www.upwork.com/freelancers/~01e4d46a64242d79ab
 [instagram]: https://instagram.com/da_phyk/
 
-
+<details>
+  <summary>:zap: Github stats</summary>
+  
 <img align= "left" alt="Daphyk's Github stats" src="https://aphyk-daphyk.vercel.app/username=Daphyk&show_icons=true&hide_border=true"/>
 
+  </details>
