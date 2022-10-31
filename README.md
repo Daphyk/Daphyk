@@ -28,5 +28,5 @@ There is a place where I open source stuff and break things 🤣
   <summary>:zap: Github stats</summary>
   
 <!--<img align= "left" alt="Daphyk's Github stats" src="https://github-readme-stats.daphyk.vercel.app/username=Daphyk&show_icons=true&hide_border=true"/>-->
-<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=Daphyk&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="Daphyk"/></p> 
+<p align="center" height='130px'> <img src="github-readme-stats.daphyk.vercel.app?username=Daphyk&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="Daphyk"/></p> 
   </details>
