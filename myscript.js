@@ -40,7 +40,7 @@
 		/*====================================
 			Sidebar Popup JS
 		======================================*/ 	
-		$('.right-nav .bar').on( "click", function(){
+		$('.right-nav .bar').on( "click", function(){bcnc 
 			$('.sidebar-popup').addClass('active');
 		});
 		
