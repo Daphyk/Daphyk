@@ -11,7 +11,8 @@
 
 				
 				$('.header').addClass("sticky");
-			} else {
+			} else {\
+				
 				$('.header').removeClass("sticky");
 			}
 		});
